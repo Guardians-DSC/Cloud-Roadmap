@@ -1,6 +1,6 @@
 # Conceitos de programação
 
-Explica o que é o tópico, justifica a importância desse tópico e explica como a pessoa deve se comportar neste tópico.
+Explica o que é o tópico, justificar a importância desse tópico e explica como a pessoa deve se comportar neste tópico.
 
 ## links úteis
 

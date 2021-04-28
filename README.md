@@ -3,6 +3,9 @@
 Esse roadmap é voltado para quem busca conhecimentos em adminstração de cloud privada.
 
 ## Como tirar melhor proveito desse Roadmap
+1. **Esse roadmap não é uma bíblia**: Esse material é pensado para ser usado como referência, mas não deixe de ver assuntos que te interessaram por que não estão aqui ou ver algo só porque está aqui mesmo você não enxergando sentido para suas atividades e não sentindo interesse.
+2. **Disciplina**: Não adianta você engolir duas sessões desse conteúdo e nunca mais olhar nada, vá devagar e sempre, mantenha uma frequência regular de estudos sobre os tópicos aqui listados.
+3. **Você não tem memória fotográfica**: Então, de vez em quando é bom voltar uns passos e relembrar com mais detalhes o que foi visto.
 
 ## Roadmap
 
@@ -26,4 +29,4 @@ Viu algo que dá pra melhorar algo? Por favor, faça um pull request com as suas
 
 ## Agradecimentos
 
-O grupo Guardians dá agradecimentos mais sinceros para [Kaio Oliveira](https://github.com/kaiokmo), [Marta Laís](https://github.com/martalais) e [Reinaldo Gomes]() que se dedicaram a construir esse roadmap e participar do episódio ["Chama o Suporte 16 - Cloud Roadmap"]() comentando o Roadmap.
+O grupo Guardians dá seus mais sinceros agradecimentos para [Kaio Oliveira](https://github.com/kaiokmo), [Marta Laís](https://github.com/martalais) e [Reinaldo Gomes]() que se dedicaram a construir esse roadmap e participar do episódio ["Chama o Suporte 16 - Cloud Roadmap"]() comentando o Roadmap.

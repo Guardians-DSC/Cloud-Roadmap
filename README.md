@@ -1,6 +1,6 @@
 <img src="header.png"/>
      
-Esse roadmap é voltado para quem busca conhecimentos em adminstração de cloud privada.
+Esse roadmap é voltado para quem busca conhecimentos em administração de cloud privada.
 
 ## Como tirar melhor proveito desse Roadmap
 1. **Esse roadmap não é uma bíblia**: Esse material é pensado para ser usado como referência, mas não deixe de ver assuntos que te interessaram por que não estão aqui ou ver algo só porque está aqui mesmo você não enxergando sentido para suas atividades e não sentindo interesse.

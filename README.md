@@ -25,7 +25,7 @@ Aqui você irá encontrar nossas recomendações de material para estudar os ass
 
 ## Contribua
 
-Viu algo que dá pra melhorar algo? Por favor, faça um pull request com as suas ideias. Você também pode olhar a parte de [issues](https://github.com/Guardians-DSC/Cloud-Roadmap/issues) para ajudar a melhorar o projeto.
+Viu algo que dá pra melhorar algo? Tem algum link que não está mais funcionando? Por favor, faça um pull request com as suas ideias/sugestões. Você também pode olhar a parte de [issues](https://github.com/Guardians-DSC/Cloud-Roadmap/issues) para ajudar a melhorar o projeto.
 
 ## Agradecimentos
 

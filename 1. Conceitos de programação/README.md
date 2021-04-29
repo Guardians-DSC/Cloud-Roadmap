@@ -1,13 +1,15 @@
-# Conceitos de programação
+# Conceitos de Programação
 
-Explica o que é o tópico, justificar a importância desse tópico e explica como a pessoa deve se comportar neste tópico.
+Cloud Computing é uma grande área da computação, interligando diversos conceitos e conteúdos diferentes. A programação é essêncial por diversos pontos: automação de serviços e funcionalidades, entender melhor como os sistemas e tecnologias citados nesse roadmap funcionam, personalizá-las e etc. Além disso, grande parte das tecnologias citadas aqui são OpenSource e aceitam contribuições para suas comunidades. 
 
-## Links úteis
+### Linguagens Sugeridas
+- Python;
+- Go;
 
 ### Por onde aprender sobre
-- [documentação python](https://www.python.org/)
-- [documentação go](https://golang.org/)
-- [Curso de python do curso em vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+- [Documentação Oficial de Python](https://www.python.org/)
+- [Documentação Oficial de Go](https://golang.org/)
+- [Curso de Python do curso em vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Curso de Go (inglês)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 - [Roadmap de Go](https://github.com/Alikhll/golang-developer-roadmap)
 

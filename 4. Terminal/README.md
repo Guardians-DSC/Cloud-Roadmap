@@ -1,11 +1,6 @@
 # Terminal
 
-Explica o que é o tópico, justifica a importância desse tópico e explica como a pessoa deve se comportar neste tópico.
-
-### dicas/alertas
-- dica
-
-## links úteis
+O uso do terminal é muito importante para qualquer pessoa que utilize um sistema operacional UNIX-like, principalmente para quem o administra. 
 
 ### por onde aprender sobre
 - [tutorial para iniciantes](https://marquesfernandes.com/self/como-comecar-a-usar-a-linha-de-comando-terminal-no-linux-tutorial-para-iniciantes/)
@@ -17,6 +12,3 @@ Explica o que é o tópico, justifica a importância desse tópico e explica com
 ### Questões para praticar
 - [Site interativo para aprendizado e shell e terminal (site em inglês)](https://www.learnshell.org/)
 - [OverTheWire - desafios de linux e capture the flag, muito útil para aprender novos comandos (site em inglês)](https://overthewire.org/wargames/)
-
-### ideias de projetos
-- [link]()

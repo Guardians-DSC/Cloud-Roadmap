@@ -8,13 +8,14 @@ Entender como é realizado o gerenciamento dos recursos é extremamente importan
 Isso permite você identificar problemas não triviais (como questões de concorrência), utilizar melhor os recursos que você dispõe e com isso ser um profissional melhor na área de computação, independente da função que irá exercer.
 
 ## Links úteis
-Uma opção interessante, mesmo sendo mais antigo, para ajudar no entendimento é o [SOsim](http://www.training.com.br/sosim/). Na página você encontram o programa para baixar e também algumas sugestões de atividades para fazer com a ferramenta.
+Uma opção interessante, mesmo sendo mais antigo, para ajudar no entendimento é o [SOsim](http://www.training.com.br/sosim/). Na página você encontra o programa para baixar e também algumas sugestões de atividades para fazer com a ferramenta.
 
 ### Por onde aprender sobre
 Livros! Pode ser antiquado mas ainda é a melhor maneira. [Nesse link](https://pages.cs.wisc.edu/~remzi/OSTEP/) temos uma opção online e gratuita para vocês começarem.
 Temos também várias aulas online que ajudam a direcionar os estudos:
 - [Aulas do nosso querido Professor Fubica](https://www.youtube.com/user/fvb0912/featured)
 - [Curso de Sistemas Operacionais - UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)
+- [Operating Systems Course (Conteúdo em inglês)](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
 ### Questões para praticar e ideias de projetos
 A disciplina de [Projeto de Sistemas Operacionais](https://thiagomanel.github.io/prso20192.html) traz diversos roteiros bastante interessantes para a fixação dos conceitos de Sistemas Operacionais.

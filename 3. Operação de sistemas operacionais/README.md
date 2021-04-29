@@ -1,6 +1,6 @@
 # Operação de Sistemas Operacionais
 Ao trabalharmos com administração de sistemas/cloud inevitavelmente vamos encontrar um ambiente dominado pelo Linux (e nada de interface gráfica).
-Aprender como usar distribuições distintas do Linux (Ubuntu, Debian, CentOS, RHEL, ...) permite ao administrado conhecer como interagir com cada um deles e dessa maneira configurar e operar os servidores que ele encontrará na infraestrutura da Cloud.
+Aprender como usar distribuições distintas do Linux (Ubuntu, Debian, CentOS, RHEL, ...) permite ao administrador conhecer como interagir com cada um delas e dessa maneira configurar e operar os servidores que ele encontrará na infraestrutura da Cloud.
 
 ### Dicas/alertas
 Um outro ponto muito importante é: focar na terminal! Em ambientes de operação de verdade vocês não terão acesso a uma interface gráfica para trabalhar nos servidores.
@@ -13,7 +13,7 @@ Temos informações abundantes sobre Linux na Internet, então buscar no Google 
 [linux.org - Linux Advanced Tutorials](https://www.linux.org/forums/linux-advanced-tutorials.125/)
 
 ### Por onde aprender sobre
-Temos vários bons cursos gratuitos que pode ser feitos (links podem mudar e os cursos não ficarem mais disponíveis):
+Temos vários bons cursos gratuitos que podem ser feitos:
 - [Linux Foundation - Introdução ao Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
 - [4Linux](https://4linux.com.br/cursos/treinamento/linux-beginners-in-cloud/)
 - [Udemy - Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/)

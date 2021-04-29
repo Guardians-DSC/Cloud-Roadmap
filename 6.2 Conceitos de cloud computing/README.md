@@ -1,17 +1,16 @@
 # Conceitos de Cloud Computing
 
-Explica o que é o tópico, justifica a importância desse tópico e explica como a pessoa deve se comportar neste tópico.
+Conceitos importantes para entender o funcoinamento da Cloud.
+Uma dica para entender esses conceitos é pesquisar não só o conceito, e ferramentas, mas também como se relaciona e se aplica na área de Cloud.
 
-### dicas/alertas
-- dica
+## Principais Conceitos
+- Disponibilidade;
+- Elasticidade;
+- Provisionamento;
+- Virtualização;
+- PAAS;
+- SAAS;
 
 ## links úteis
-
-### por onde aprender sobre
-- [link]()
-
-### Questões para praticar
-- [link]()
-
-### ideias de projetos
-- [link]()
+- [Artigo sobre Cloud Computing](https://www.softwareone.com/pt-br/blog/artigos/2020/01/25/afinal-o-que-e-cloud-computing);
+- [O que é IaaS, SaaS, Cloud Computing e Virtualização?](https://blog.mandic.com.br/artigos/o-que-e-iaas-tipos-cloud-virtualizacao/);

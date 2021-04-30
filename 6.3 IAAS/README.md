@@ -1,17 +1,16 @@
 # IAAS
+IaaS (Infraestrutura como serviço) é uma infraestrutura de computação instantânea, provisionada e gerenciada pela Internet. É um dos quatro tipos de serviços de nuvem, junto com o SaaS (software como serviço), PaaS (plataforma como serviço) e sem servidor (serverless).
 
-Explica o que é o tópico, justifica a importância desse tópico e explica como a pessoa deve se comportar neste tópico.
+É importante entender IaaS pois provedores e gerenciadores de nuvem se baseiam nesse conceito para oferecer seus serviços especificamente com relação ao hardware virtualizado, em outras palavras, a infraestrutura de computação.
 
-### dicas/alertas
-- dica
+## Principais conceitos
+- Infraestrutura sob demanda;
+- Escalabilidade;
+- Redução de custos;
+- Segurança;
+- Mobilidade.
 
-## links úteis
-
-### por onde aprender sobre
-- [link]()
-
-### Questões para praticar
-- [link]()
-
-### ideias de projetos
-- [link]()
+## Onde ler mais a respeito
+- [Red Hat - O que é IaaS?](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-iaas)
+- [Azure - O que é IaaS? Infraestrutura como serviço](https://azure.microsoft.com/pt-br/overview/what-is-iaas/)
+- [Infrastructure as a Service](https://solvimm.com/blog/o-que-e-iaas/)

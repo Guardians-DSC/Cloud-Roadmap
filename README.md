@@ -11,6 +11,8 @@ Esse roadmap é voltado para quem busca conhecimentos em administração de clou
 
 ## Roadmap
 
+<img src="roadmap.png"/>
+
 ## Recursos
 
 Aqui você irá encontrar nossas recomendações de material para estudar os assuntos citados no roadmap.
